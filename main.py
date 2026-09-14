@@ -34,7 +34,6 @@ print(linha_dados_3)
 print(linha_dados_4)
 
 #Etapa 4: Elaboração do Prompt para Painel e Cálculo Final
-
 nome_startup = startups["nome"]
 
 custo_1 = float(linha_dados_1.strip().split(",")[-1])
